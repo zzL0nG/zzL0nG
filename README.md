@@ -63,9 +63,8 @@
 
 <!------------------------->
 <div id="apoyo">
-<h2>Si hacerme una donación para seguir aprendiendo</h2>
-  <p align="left">
-<a href='https://matecito.co/' rel='noopener' target='_blank'><img srcset='https://www.matecito.co/public/button_11.png 1x, https://www.matecito.co/public/button_11_2x.png 2x, https://www.matecito.co/public/button_11_3.75x.png 3.75x' src='https://www.matecito.co/public/button_11.png' alt='Convidame un Matecito' align="left" height="50" width="240" /></a>    
+<h2>Si quieres hacerme una donación para seguir aprendiendo</h2>
+  <p align="left">   
 <a href="https://ko-fi.com/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zzL0nG" /></a>
   </p>
 </div>
