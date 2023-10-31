@@ -65,7 +65,7 @@
 <div id="apoyo">
 <h2>Si quieres hacerme una donación para seguir aprendiendo</h2>
   <p align="left">   
-<a href="https://ko-fi.com/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zzL0nG" /></a>
+<a href="ko-fi.com/zzl0ng"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zzL0nG" /></a>
   </p>
 </div>
   <br>
